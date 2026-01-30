@@ -71,7 +71,7 @@ pip install -r requirements.txt
 3. Download pre-trained models and place them in `./models/`
 
 - **Lawn Student Model** (Buildings, Sidewalk, Lawn, Driveway + LiDAR channels)  
-  [Download Link](https://drive.google.com/...) → rename to `lawn_student_v5_5ch.pth`
+  [Download Link](https://drive.google.com/file/d/1f6VxBEbbYLCXBjqIiEp0GoXKt7rEtOTb/view?usp=sharing) → rename to `lawn_model.pth`
 
 - **Tree Segmentation & Coverage Model**  
   [Download Link](https://drive.google.com/...) → rename to `tree_model.pth`
