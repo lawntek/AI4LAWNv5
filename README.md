@@ -58,7 +58,7 @@ Both channels are sourced from USGS 3DEP EPT datasets (when available) or raw LA
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI4LawnV5.git
+git clone https://github.com/AI4LAWNv5.git
 cd AI4LawnV5
 ```
 
@@ -172,7 +172,7 @@ AI4LawnV5/
 
 ## 🤝 Credits & License
 
-Developed by **DeepLawn** / raja  
+Developed by **DeepLawn** 
 Licensed under **MIT License** (see LICENSE file)
 
 Pre-trained models hosted via Google Drive (links above).
