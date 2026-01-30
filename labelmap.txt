@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+Building:255,106,77::
+Turf:61,245,61::
+background:0,0,0::
