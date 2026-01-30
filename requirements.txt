@@ -11,8 +11,9 @@ segmentation-models-pytorch
 Flask==2.2.5
 Werkzeug==2.2.3
 requests
-shapely=2.1.2
-flask_cors=6.0.2
-rasterio=1.4.4
-pyproj=3.7.2
-cv2geojson=0.0.9
+shapely==2.1.2
+flask_cors==6.0.2
+rasterio==1.4.4
+pyproj==3.7.2
+cv2geojson==0.0.9
+pdal==2.8.2 
