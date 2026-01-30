@@ -1,6 +1,3 @@
-Here is a clean, updated **README.md** for **AI4LawnV5**, written in proper Markdown syntax, scientifically explaining the new 4th and 5th LiDAR-derived channels, incorporating the new optional `metadata` key, and building on your V4 structure while making it more professional and clear.
-
-```markdown
 # AI4LawnV5
 
 **AI4LawnV5** is an advanced AI-powered computer vision service for high-resolution aerial imagery analysis, with a strong focus on **lawn & turf segmentation**, property feature extraction, and vegetation assessment.
