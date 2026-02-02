@@ -17,6 +17,7 @@ The system exposes a **RESTful API** suitable for integration with web applicati
 
 ## ✨ What's New in V5
 
+ | ![Student Model Knowledge Distillation](images/proposed.png) |
 - **Two new LiDAR-derived input channels** (4th & 5th channels) added to the model input stack:
   1. **Normalized LiDAR Intensity** — captures surface reflectance properties (bright = high-reflectance surfaces like concrete/roads; dark = vegetation/asphalt/water)
   2. **LiDAR-derived "Deforestation Proxy"** — uses last-return intensity values as a proxy for ground-level openness (higher values indicate more open, lawn-like surfaces; lower values indicate dense canopy or structures)
