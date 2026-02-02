@@ -109,7 +109,7 @@ Performs segmentation and returns masks + tree coverage statistics.
 | `features`      | list    | Yes      | Features to return: ["TREE", "BUILDING", "SIDEWALK", "LAWN", "DRIVEWAY"]   |
 | `tiling_flag`   | boolean | No       | Enable automatic tiling for large images (default: true)                   |
 | `num_slices`    | int     | No       | Number of tiles per side when tiling (default: 3 → 3×3 = 9 tiles)          |
-| `metadata`      | dict    | **No**   | Optional geospatial metadata. To fetch LCP GeoRefrenced Data to Enable Lidar Features  (see example below)    
+| `metadata`      | dict    | **No**   | Optional geospatial metadata. To fetch LCP GeoRefrenced Data to Enable Lidar based model Predictions  (see example below)    
 |
 
 #### Example with metadata
