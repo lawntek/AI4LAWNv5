@@ -159,15 +159,12 @@ AI4LawnV5/
 
 ---
 
-## 📷 Example Outputs
+## 📷 Model Outputs
 
-*(Add your best example images here later)*
+| Building                     | Sidewalk                     | Lawn                        | Driveway                    | Tree                       |
+|------------------------------|------------------------------|-----------------------------|-----------------------------|----------------------------|
+| ![Building](images/building_overlay.png) | ![Sidewalk](images/sidewalk_overlay.png) | ![Lawn](images/LAWN_geojson_overlay.png)       | ![Driveway](images/driveway_overlay.png) | ![Tree](images/tree_overlay.png)     |
 
-- Lawn + Buildings + Driveways + Sidewalks prediction  
-  ![Multi-class segmentation](images/v5_multiclass_example.png)
-
-- Tree canopy mask & coverage percentage  
-  ![Tree overlay](images/v5_tree_example.png)
 
 ---
 
