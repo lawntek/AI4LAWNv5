@@ -143,8 +143,7 @@ AI4LawnV5/
 ├── utils/
 │   ├── lidar_fetch.py        # USGS EPT / LAZ downloader & processor
 │   ├── tiling.py             # Large image tiling utilities
-│   └── postprocess.py        # Mask cleanup, GeoJSON conversion
-├── requirements.txt
+│   └── model.py              # Model Architecture
 └── README.md
 ```
 
