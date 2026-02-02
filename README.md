@@ -1,6 +1,6 @@
-# AI4LawnV5
+# AI4LAWNv5
 
-**AI4LawnV5** is an advanced AI-powered computer vision service for high-resolution aerial imagery analysis, with a strong focus on **lawn & turf segmentation**, property feature extraction, and vegetation assessment.
+**AI4LAWNv5** is an advanced AI-powered computer vision service for high-resolution aerial imagery analysis, with a strong focus on **lawn & turf segmentation**, property feature extraction, and vegetation assessment.
 
 It performs semantic segmentation to identify:
 - Buildings
