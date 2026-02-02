@@ -179,7 +179,3 @@ Pre-trained models hosted via Google Drive (links above).
 
 Questions, contributions, or issues? → Open an issue or contact via GitHub.
 ```
-
-Feel free to replace placeholder links, add real screenshots, adjust GitHub repo name, etc.
-
-Let me know if you want to emphasize any particular part more (e.g. scientific references, API response format, or deployment instructions).
