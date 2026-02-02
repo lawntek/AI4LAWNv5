@@ -25,7 +25,10 @@ The system exposes a **RESTful API** suitable for integration with web applicati
 - Improved tiling logic for very large images (configurable `num_slices` and overlap).
 - Enhanced normalization consistency between training and inference pipelines.
 - Updated knowledge-distilled **Lawn Student Model** now accepts 5-channel input (RGB + Intensity + Deforestation Proxy).
-
+- **Sample Prediction** using the new **Lawn Student Model** and **Tree Model**.
+- ![Lawn, Buildings, Driveway & Sidewalk](images/New_Model.jpg)
+- ![Lawn, Buildings, Driveway & Sidewalk](images/New_Model.png)
+---
 ### Scientific Background — New LiDAR Channels
 
 Modern semantic segmentation models for aerial imagery benefit significantly from **multispectral** and **geometric** auxiliary inputs. In V5 we introduce two LiDAR-derived features:
