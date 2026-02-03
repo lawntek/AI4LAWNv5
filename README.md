@@ -28,6 +28,7 @@ The system exposes a **RESTful API** suitable for integration with web applicati
 - **Sample Prediction** using the new **Lawn Student Model** and **Tree Model**.
 - ![Lawn, Buildings, Driveway & Sidewalk](images/New_Model.jpg)
 - ![Lawn, Buildings, Driveway & Sidewalk](images/New_Model.png)
+  - ![Lawn, Buildings, Driveway & Sidewalk](images/preds1.png)
 ---
 ### Scientific Background — New LiDAR Channels
 
